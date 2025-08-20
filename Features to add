@@ -1,0 +1,38 @@
+✅ Intermediate Features to Add
+
+Edit a Log Entry
+
+  Add a function where the user can pick one of their past logs and change numbers (like if they typed 12 hours of sleep by mistake).
+
+Delete a Log Entry
+
+  Add a function to remove a past log completely from the data file.
+
+Search Logs by Name
+
+  If multiple people use the app, let the user type a name and see only that person’s logs.
+
+Export Data to File
+
+Add a function that saves all logs into a text file so the user can read or print their progress.
+
+
+
+
+🔄 Update the Menu
+
+After you add these functions, update the main app menu so it looks more like this:
+
+1 = Log Habits
+
+2 = View Progress
+
+3 = Quit
+
+4 = Edit a Log
+
+5 = Delete a Log
+
+6 = Search Logs by Name
+
+7 = Export Data
